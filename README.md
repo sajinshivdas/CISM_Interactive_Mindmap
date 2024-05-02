@@ -15,9 +15,9 @@ CISM Mindmap Series will include all four Domains. This collection is designed t
 
 🌐 Mindmap Link
 
-CISM_Domain_01 - Information Security Governance
+CISM_Domain_01 - Information Security Governance: https://sajinshivdas.com/cybersecurity/cism-interactive-mindmap-domain-1/
 
-CISM_Domain_02
+CISM_Domain_02 - Information Security Risk Management: https://sajinshivdas.com/cybersecurity/cism-interactive-mindmap-domain-2-information-security-risk-management/
 
 CISM_Domain_03
 
@@ -25,7 +25,7 @@ CISM_Domain_04
 
 
 📖 Resources
-The Mindmap can be more effective with images and short notes, I have laready added some reference images and shortnotes for most the topics for ready reference of the content. Please feel free to inform or upload reference images or notes that will help the mindmap to be more effective
+The Mindmap can be more effective with images and short notes, I have already added some reference images and shortnotes for most the topics for ready reference of the content. Please feel free to inform or upload reference images or notes that will help the mindmap to be more effective
 
 CISM_Domain_01 - Information Security Governance
 
